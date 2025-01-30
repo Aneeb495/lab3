@@ -1,5 +1,6 @@
 cout<<"My name is:"<<Aneeb";
 cout<<"Roll number is:"<<051";
+ Multiplication
  Division
 int a;
 int b;
@@ -13,3 +14,10 @@ int multiply;
 int=a*b;
 cout<<multiply;
  Multiplication
+
+int a;
+int b; 
+int diff;
+diff=a-b;
+cout<<diff;
+ Subtraction
